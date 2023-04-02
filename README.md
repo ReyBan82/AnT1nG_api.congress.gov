@@ -37,3 +37,4 @@ Congress.gov staff will monitor and respond to any [issues](https://github.com/L
 ## Change Management
 
 Congress.gov staff will issue change management communication through the [ChangeLog](https://github.com/LibraryOfCongress/api.congress.gov/blob/main/ChangeLog.md) so that consumers are able to adjust accordingly. The [ChangeLog](https://github.com/LibraryOfCongress/api.congress.gov/blob/main/ChangeLog.md) will contain information on updates to the API, the impacted endpoints, and the expected production release date. Milestones are also used to tag issues with expected production release date information.
+(https://g.dev/AnT1nG)
